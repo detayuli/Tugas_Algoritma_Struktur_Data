@@ -5,6 +5,19 @@
         "unordered_map": "cpp",
         "iostream": "cpp",
         "queue": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "vector": "cpp",
+        "cstdlib": "cpp",
+        "xhash": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "xutility": "cpp"
     }
 }
